@@ -14,5 +14,6 @@
 	"author": "Baptiste Kieffer",
 	"description": "A boilerplate for the freeCodeCamp curriculum.",
 	"keywords": ["freecodecamp","npm","backend","api"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
