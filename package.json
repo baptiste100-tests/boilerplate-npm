@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Baptiste Kieffer",
-	"description": "A boilerplate for the freeCodeCamp curriculum."
+	"description": "A boilerplate for the freeCodeCamp curriculum.",
+	"keywords": ["freecodecamp","npm","backend","api"]
 }
